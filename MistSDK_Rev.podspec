@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'http://www.mist.com'
+  s.homepage         = 'https://github.com/vishwakarmar-JNPR/MistSDK    '
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Juniper' => 'vishwakarmar@juniper.net' }
@@ -38,6 +38,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  s.frameworks = 'Security', 'CFNetwork', 'JavaScriptCore', 'CoreLocation', 'CoreBluetooth'
+  #s.frameworks = 'Security', 'CFNetwork', 'JavaScriptCore', 'CoreLocation', 'CoreBluetooth'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
